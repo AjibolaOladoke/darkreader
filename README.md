@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the darkreader notes, e
 
 ## Images
 
-[![darkreader](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![darkreader](images/preview.png)](https://github.com/Swift-Tech-Co/darkreader)
 
 ## Questions
 
@@ -195,30 +195,30 @@ A simple way to recapitulate all this information is: "restricted domains" exist
 <h3 align="center"><strong>Thank you to all our contributors! Dark Reader exists thanks to you.</strong></h3>
 <br/>
 <br/>
-<p align="center"><a rel="noreferrer noopener" href="https://www.swifttechco.com"></a></p>
+<p align="center"><a rel="noreferrer noopener" href="https://github.com/Swift-Tech-Co/darkreader"></a></p>
 
 <h2 align="center">Backers</h2>
 <br/>
-<h3 align="center"><strong>Thank you to all our generous backers! </strong>Support Dark Reader by <a rel="noreferrer noopener" href="https://www.swifttechco.com" target="_blank">becoming a backer</a>.</h3>
+<h3 align="center"><strong>Thank you to all our generous backers! </strong>Support Dark Reader by <a rel="noreferrer noopener" href="https://github.com/Swift-Tech-Co/darkreader" target="_blank">becoming a backer</a>.</h3>
 <br/>
 <br/>
-<p align="center"><a rel="noreferrer noopener" href="https://www.swifttechco.com" target="_blank"></a></p>
+<p align="center"><a rel="noreferrer noopener" href="https://github.com/Swift-Tech-Co/darkreader" target="_blank"></a></p>
 
-<p>Does your company use Dark Reader? Please ask your manager or the marketing team if your company would be interested in supporting our project. Your support will allow the maintainers to dedicate more time to maintenance and creating new features for everyone. Also, your company's logo will show on <a rel="noreferrer noopener" href="https://www.swifttechco.com" target="_blank">GitHub</a>. Who doesn't want a little extra exposure? <a rel="noreferrer noopener" href="https://www.swifttechco.com" target="_blank">Here's the info</a>.</p>
+<p>Does your company use Dark Reader? Please ask your manager or the marketing team if your company would be interested in supporting our project. Your support will allow the maintainers to dedicate more time to maintenance and creating new features for everyone. Also, your company's logo will show on <a rel="noreferrer noopener" href="https://github.com/Swift-Tech-Co/darkreader" target="_blank">GitHub</a>. Who doesn't want a little extra exposure? <a rel="noreferrer noopener" href="https://github.com/Swift-Tech-Co/darkreader" target="_blank">Here's the info</a>.</p>
 
 <br/>
 <br/>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
-<a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
+<a href="https://github.com/Swift-Tech-Co/darkreader" target="_blank" rel="noreferrer noopener"></a>
 
 ---
 
@@ -234,13 +234,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/darkreader
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [darkreader/darkreader](https://github.com/darkreader/darkreader) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
