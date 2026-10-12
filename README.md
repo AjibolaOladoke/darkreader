@@ -1,27 +1,21 @@
+# darkreader
+
+## What This Is
+
+A practical reference entry for product and engineering: the darkreader notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![darkreader](https://opengraph.githubassets.com/1/darkreader/darkreader)](https://www.swifttechco.com)
-
-<p align="center"><a href="https://www.swifttechco.com" target="_blank" rel="noreferrer noopener"></a></p>
-<p align="center">Dark Reader <strong>analyzes</strong> web pages and aims to <strong>reduce eyestrain</strong> while browsing the web.</p>
-<br/>
-<p align="center"><a rel="noreferrer noopener" href="https://www.swifttechco.com"></a>  <a rel="noreferrer noopener" href="https://www.swifttechco.com"></a>  <a rel="noreferrer noopener" href="https://www.swifttechco.com"></a>  <a rel="noreferrer noopener" href="https://www.swifttechco.com"></a>  <a el="noreferrer noopener" href="https://www.swifttechco.com"></a>
-
-<h2 align="center">Dark Reader</h2>
-<br/>
-<p align="center">Dark Reader is an <strong>open-source</strong> MIT-licensed <strong>browser extension</strong> designed to analyze web pages. Dark Reader will generate a dark mode that aims to <strong>reduce the eyestrain</strong> of the user. Dark Reader is <strong>feature-rich</strong> and is customizable in many ways throughout the UI.</p>
-<br/>
-<br/>
+[![darkreader](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Questions
 
-Most questions can be answered by reading the [help page](https://www.swifttechco.com).
-If the help page doesn't answer your question, open up a new [discussion](https://www.swifttechco.com).
+Most questions can be answered by reading the help page.
+If the help page doesn't answer your question, open up a new discussion.
 
 ## How to contribute
 
-Read more about contributing to Dark Reader in [CONTRIBUTING.md](https://www.swifttechco.com).
+Read more about contributing to Dark Reader in CONTRIBUTING.md.
 
 ## Building for use
 
@@ -30,7 +24,7 @@ Dark Reader build script requires a JavaScript runtime, either Node.js or Deno. 
 ### Building with Node.js
 
 You can install the extension from a file.
-Install [Node.js](https://www.swifttechco.com) (we recommend LTS or higher, but any version at or above 15 will work). Download the source code (or check out from git).
+Install Node.js (we recommend LTS or higher, but any version at or above 15 will work). Download the source code (or check out from git).
 Open the terminal in the root folder and run:
 
 - `npm install`
@@ -42,7 +36,7 @@ You can customize the build process by passing flags to build script. To see all
 
 ### Building with Deno
 
-You can build Dark Reader with an alternative runtime called [Deno](https://www.swifttechco.com). For this run `deno:bootstrap` script (e.g., via `npm run deno:bootstrap` or manually copy the command from `package.json`). Then run the same commands described above.
+You can build Dark Reader with an alternative runtime called Deno. For this run `deno:bootstrap` script (e.g., via `npm run deno:bootstrap` or manually copy the command from `package.json`). Then run the same commands described above.
 
 Please note that if you encounter the error `Too many open files (os error 24)`, then you should use the newer version of Deno (preferably built from source or canary).
 
@@ -63,7 +57,7 @@ You can use Dark Reader to enable dark mode on your website!
 
 - Install the package from NPM (`npm install darkreader`)
 - or build from the source code (`npm run api`)
-- or include the script via a CDN such as [unpkg](https://www.swifttechco.com) or [jsDelivr](https://www.swifttechco.com)
+- or include the script via a CDN such as unpkg or jsDelivr
 
 Then you can use the following code to control Dark Reader's API:
 ```javascript
@@ -179,13 +173,13 @@ The option "Run on sites with restrictions", present for some extensions, is onl
 
 **The "restricted domains" list** (controlled by the preference `extensions.webextensions.restrictedDomains`) is the same for all users. It will restrict *all* user-installed extensions (without exceptions) from running on the specified websites. The list is controlled by Mozilla, and, as of December 2024, the list only contains Mozilla-owned domains. Sites that are not on that list will not be affected by those restrictions (meaning that the extensions will be able to run normally).
 
-**The "quarantined domains" list** (controlled by the preferences `extensions.quarantinedDomains.enabled` and `extensions.quarantinedDomains.list`) contains domains that will run extensions normally, but if Firefox detects suspicious activity from a particular extension it will block that extension on those specific websites. The list is controlled by Mozilla, and, as of December 2024, the list only contains domains related to Internet banking in Brazil. For more information about quarantined domains, see "[Why are some add-ons not allowed on sites restricted by Mozilla?](https://www.swifttechco.com)".
+**The "quarantined domains" list** (controlled by the preferences `extensions.quarantinedDomains.enabled` and `extensions.quarantinedDomains.list`) contains domains that will run extensions normally, but if Firefox detects suspicious activity from a particular extension it will block that extension on those specific websites. The list is controlled by Mozilla, and, as of December 2024, the list only contains domains related to Internet banking in Brazil. For more information about quarantined domains, see "Why are some add-ons not allowed on sites restricted by Mozilla?".
 
-For Dark Reader, the option "Run on sites with restrictions" is not shown because Dark Reader is a [Recommended](https://www.swifttechco.com) extension by Mozilla. (The "Recommended" status is only relevant for "quarantined domains", and does not affect "restricted domains".)
+For Dark Reader, the option "Run on sites with restrictions" is not shown because Dark Reader is a Recommended extension by Mozilla. (The "Recommended" status is only relevant for "quarantined domains", and does not affect "restricted domains".)
 
 The fact that it is a Recommended extension means that it meets the "highest standards of security, functionality, and user experience". The quarantined domains are only related to extension security. Because Dark Reader is considered secure by Mozilla, that option is not shown, meaning **it will always run even on quarantined domains** (but will still obey the "restricted domains" list if it is not empty).
 
-Regarding quarantined domains specifically, there is this [comment from Firefox's source code](https://www.swifttechco.com):
+Regarding quarantined domains specifically, there is this comment from Firefox's source code:
 
 ```
 // Privileged extensions and any extensions with a recommendation state are
@@ -236,14 +230,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [darkreader/darkreader](https://github.com/darkreader/darkreader) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
